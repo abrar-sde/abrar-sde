@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammed Abrar
 
-<!--
-**abrar-sde/abrar-sde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate learner and MERN Stack developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
+
+👦 I'm Mohammed Abrar, a MERN Stack enthusiast with a strong tech addiction.  
+👨‍💻 Engaged in diverse web development projects solving real-world challenges using MongoDB, Express.js, React, and Node.js.  
+🤝 Seeking developers to collaborate on projects - code improvements, bug fixes, and new ideas are welcome.  
+📚 Currently focusing on building full-stack applications and mastering modern web development practices.  
+⚡ Addicted to all things tech!
+
