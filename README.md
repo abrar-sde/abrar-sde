@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohammed Abrar
+# Hi 👋, I'm Mohammed Abrar Abdullah
 
 A cybersecurity enthusiast and passionate learner.
 
